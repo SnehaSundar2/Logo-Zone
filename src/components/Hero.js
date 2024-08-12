@@ -1,7 +1,7 @@
 import React from 'react';
-import img1 from "C:\\Users\\admin\\logo-zone\\src\\images\\1.png"
-import img2 from "C:\\Users\\admin\\logo-zone\\src\\images\\2.png"
-import img3 from "C:\\Users\\admin\\logo-zone\\src\\images\\3.png"
+import img1 from "C:\\Users\\admin\\logo-zone\\src\\images\\one.png"
+import img2 from "C:\\Users\\admin\\logo-zone\\src\\images\\two.png"
+import img3 from "C:\\Users\\admin\\logo-zone\\src\\images\\three.png"
 
 const Hero = () => {
   return (
